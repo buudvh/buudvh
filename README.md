@@ -12,6 +12,7 @@
 <p align="center">
     <a href="https://x.com/matrixBU180198"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.facebook.com/damvanhoangbuu/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"/></a>
+    <a href="https://dev.to/matrixbu010498"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 ## 🔥 Streak stats
