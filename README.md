@@ -7,6 +7,10 @@
     <a href="https://app.daily.dev/buulh"><img src="https://api.daily.dev/devcards/39efc67432d945039f6ce53a097a4893.png?r=jl7" width="400" alt="Đàm Văn Hoàng Bửu's DevCard"/></a>
 </div>
 
+# Profile sumary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damvanhoangbuu1&theme=aura)
+
 ## 🙋‍♂️ Connect with me
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -19,6 +23,11 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damvanhoangbuu1&theme=radical&hide_border=true)](https://github.com/damvanhoangbuu1)
+
+# Technology sumary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damvanhoangbuu1&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damvanhoangbuu1&theme=aura)
 
 ### 👨‍💻 Programming languages
 
@@ -60,6 +69,9 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+## Commit chart
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damvanhoangbuu1&theme=aura&utcOffset=8)
 
 ## 📊 Github stats
 
