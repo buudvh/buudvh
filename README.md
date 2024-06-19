@@ -4,7 +4,7 @@
 </h3>
 
 <div align="center">
-    <img style="width: 80%" src="./header.png" alt="Đàm Văn Hoàng Bửu"/>
+    <img style="width: 80%" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=journey&pixelate_avatar=false&hide=rank" alt="Đàm Văn Hoàng Bửu"/>
 </div>
 
 # Profile sumary
