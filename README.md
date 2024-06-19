@@ -11,8 +11,10 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
     <a href="https://x.com/matrixBU180198"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.facebook.com/damvanhoangbuu/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"/></a>
     <a href="https://dev.to/matrixbu010498"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/buu-dvh-0041571b0/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.facebook.com/damvanhoangbuu/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"/></a>
+    
 </p>
 
 # 🔥 Technology sumary
