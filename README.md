@@ -4,7 +4,7 @@
 </h3>
 
 <div align="center">
-    <img src="./header.png" alt="Đàm Văn Hoàng Bửu"/>
+    <img style="width: 80%" src="./header.png" alt="Đàm Văn Hoàng Bửu"/>
 </div>
 
 # Profile sumary
