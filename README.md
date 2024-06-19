@@ -9,7 +9,6 @@
 
 # Profile sumary
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C806%20hrs%2040%20mins-blue)![Profile Views](http://img.shields.io/badge/Profile%20Views-1248-blue)![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damvanhoangbuu1&theme=aura)
 
 ## 🙋‍♂️ Connect with me
 <!-- Badges template - https://github.com/badges/shields -->
@@ -34,7 +33,7 @@
 <p>
     <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"></a>
     <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Ac%23&type=repositories"><img alt="C#" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Apython&type=repositories"><img style="height:20px" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
@@ -44,7 +43,7 @@
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Ruby on rail" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+    <a href="#"><img style="height:20px" alt="Ruby on rail" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%206.0-blueviolet"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat-square"></a>
 </p>
@@ -69,9 +68,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-## Commit chart
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damvanhoangbuu1&theme=aura&utcOffset=8)
 
 ## 📊 Github stats
 
