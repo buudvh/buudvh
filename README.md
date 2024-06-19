@@ -7,9 +7,6 @@
     <img style="width: 80%" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=journey&pixelate_avatar=false&hide=rank" alt="Đàm Văn Hoàng Bửu"/>
 </div>
 
-# Profile sumary
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C806%20hrs%2040%20mins-blue)![Profile Views](http://img.shields.io/badge/Profile%20Views-1248-blue)![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
-
 ## 🙋‍♂️ Connect with me
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
