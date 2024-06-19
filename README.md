@@ -8,7 +8,7 @@
 </div>
 
 # Profile sumary
-
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C806%20hrs%2040%20mins-blue)![Profile Views](http://img.shields.io/badge/Profile%20Views-1248-blue)![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damvanhoangbuu1&theme=aura)
 
 ## 🙋‍♂️ Connect with me
