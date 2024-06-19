@@ -63,13 +63,3 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-## 📊 Github stats
-
-[![wakatime](https://wakatime.com/badge/user/f6eaf09c-495f-4a4f-aba1-8bb9b755f06a.svg)](https://wakatime.com/@f6eaf09c-495f-4a4f-aba1-8bb9b755f06a)
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/damvanhoangbuu1"><img alt="Tran Phu Quy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=damvanhoangbuu1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
