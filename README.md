@@ -18,12 +18,7 @@
     <a href="https://dev.to/matrixbu010498"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damvanhoangbuu1&theme=radical&hide_border=true)](https://github.com/damvanhoangbuu1)
-
-# Technology sumary
+# 🔥 Technology sumary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damvanhoangbuu1&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damvanhoangbuu1&theme=aura)
