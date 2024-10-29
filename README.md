@@ -4,7 +4,12 @@
 </h3>
 
 <div align="center">
-    <img style="width: 80%" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=journey&pixelate_avatar=false&hide=rank" alt="Đàm Văn Hoàng Bửu"/>
+<!--     <picture decoding="async" loading="lazy">
+      <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=summer">
+      <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&screen_effect=true&theme=blue_chill">
+      <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=rainbow&pixelate_avatar=false">
+    </picture> -->
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=journey&pixelate_avatar=false">
 </div>
 
 ## 🙋‍♂️ Connect with me
