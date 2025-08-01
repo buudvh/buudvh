@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=buudvh&color=blueviolet)
+
 <h3 align="center">
   Welcome to Dam Van Hoang Buu's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
