@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=buudvh&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=buudvh&color=yellow&style=for-the-badge&label=++◕‿◕++)
 
 <h3 align="center">
   Welcome to Dam Van Hoang Buu's profile!
