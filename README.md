@@ -5,13 +5,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<div align="center">
+<div align="center" style="display:flex">
 <!--     <picture decoding="async" loading="lazy">
       <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=summer">
       <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&screen_effect=true&theme=blue_chill">
       <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=rainbow&pixelate_avatar=false">
     </picture> -->
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=buudvh&pixelate_avatar=false">
+
+  ![Buu DVH's GitHub stats](https://github-readme-stats.vercel.app/api?username=buudvh&show_icons=true&theme=radical)
+  
 </div>
 
 ## 🙋‍♂️ Connect with me
