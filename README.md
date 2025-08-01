@@ -9,7 +9,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&screen_effect=true&theme=blue_chill">
       <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=rainbow&pixelate_avatar=false">
     </picture> -->
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=journey&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=buudvh&theme=journey&pixelate_avatar=false">
 </div>
 
 ## 🙋‍♂️ Connect with me
@@ -24,18 +24,18 @@
 
 # 🔥 Technology sumary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damvanhoangbuu1&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damvanhoangbuu1&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buudvh&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buudvh&theme=aura)
 
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"></a>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Ac%23&type=repositories"><img alt="C#" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Apython&type=repositories"><img style="height:20px" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adamvanhoangbuu1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%buudvh+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"></a>
+    <a href="https://github.com/search?q=user%buudvh+is%3Arepo+language%3Ac%23&type=repositories"><img alt="C#" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%buudvh+is%3Arepo+language%3Apython&type=repositories"><img style="height:20px" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/search?q=user%buudvh+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%buudvh+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%buudvh+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
