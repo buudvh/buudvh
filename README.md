@@ -9,7 +9,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&screen_effect=true&theme=blue_chill">
       <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=damvanhoangbuu1&theme=rainbow&pixelate_avatar=false">
     </picture> -->
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=buudvh&theme=crt&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=buudvh&pixelate_avatar=false">
 </div>
 
 ## 🙋‍♂️ Connect with me
