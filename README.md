@@ -33,8 +33,8 @@
     <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"></a>
     <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3Ac%23&type=repositories"><img alt="C#" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3Apython&type=repositories"><img style="height:20px" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3ARuby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3AC%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3ARuby&type=repositories"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="https://github.com/search?q=owner%3Abuudvh+is%3Arepo+language%3AC%2B%2B+&type=repositories"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
